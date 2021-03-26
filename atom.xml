@@ -6,7 +6,7 @@
   <link href="http://blog.spturate.top/atom.xml" rel="self"/>
   
   <link href="http://blog.spturate.top/"/>
-  <updated>2021-03-23T14:44:01.206Z</updated>
+  <updated>2021-03-26T16:37:59.059Z</updated>
   <id>http://blog.spturate.top/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>使用Cloudflare对你的网站进行全局CDN加速(未写完)</title>
+    <title>使用Cloudflare对你的网站进行全局CDN加速</title>
     <link href="http://blog.spturate.top/2021/03/hexo-cloudflare/"/>
     <id>http://blog.spturate.top/2021/03/hexo-cloudflare/</id>
     <published>2021-03-21T17:13:51.000Z</published>
-    <updated>2021-03-23T14:44:01.206Z</updated>
+    <updated>2021-03-26T16:37:59.059Z</updated>
     
     
       
