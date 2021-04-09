@@ -3,11 +3,11 @@
   <title>Spturate&#39;Blog</title>
   
   <subtitle>千羽的个人博客</subtitle>
-  <link href="http://blog.spturate.top/atom.xml" rel="self"/>
+  <link href="http://www.spturate.top/atom.xml" rel="self"/>
   
-  <link href="http://blog.spturate.top/"/>
+  <link href="http://www.spturate.top/"/>
   <updated>2021-04-05T05:25:15.878Z</updated>
-  <id>http://blog.spturate.top/</id>
+  <id>http://www.spturate.top/</id>
   
   <author>
     <name>SPTURATE</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>HTML学习日志-二</title>
-    <link href="http://blog.spturate.top/2021/04/xue-xi-html/html-2/"/>
-    <id>http://blog.spturate.top/2021/04/xue-xi-html/html-2/</id>
+    <link href="http://www.spturate.top/2021/04/xue-xi-html/html-2/"/>
+    <id>http://www.spturate.top/2021/04/xue-xi-html/html-2/</id>
     <published>2021-04-03T13:25:15.000Z</published>
     <updated>2021-04-05T05:25:15.878Z</updated>
     
@@ -38,16 +38,16 @@
     
     
     
-    <category term="HTML" scheme="http://blog.spturate.top/tags/HTML/"/>
+    <category term="HTML" scheme="http://www.spturate.top/tags/HTML/"/>
     
-    <category term="超文本标记语言" scheme="http://blog.spturate.top/tags/%E8%B6%85%E6%96%87%E6%9C%AC%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/"/>
+    <category term="超文本标记语言" scheme="http://www.spturate.top/tags/%E8%B6%85%E6%96%87%E6%9C%AC%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/"/>
     
   </entry>
   
   <entry>
     <title>使用Cloudflare对你的网站进行全局CDN加速</title>
-    <link href="http://blog.spturate.top/2021/03/hexo-cloudflare/"/>
-    <id>http://blog.spturate.top/2021/03/hexo-cloudflare/</id>
+    <link href="http://www.spturate.top/2021/03/hexo-cloudflare/"/>
+    <id>http://www.spturate.top/2021/03/hexo-cloudflare/</id>
     <published>2021-03-21T17:13:51.000Z</published>
     <updated>2021-03-26T16:37:59.059Z</updated>
     
@@ -62,23 +62,23 @@
     
     
     
-    <category term="Hexo" scheme="http://blog.spturate.top/categories/Hexo/"/>
+    <category term="Hexo" scheme="http://www.spturate.top/categories/Hexo/"/>
     
     
-    <category term="hexo" scheme="http://blog.spturate.top/tags/hexo/"/>
+    <category term="hexo" scheme="http://www.spturate.top/tags/hexo/"/>
     
-    <category term="CDN" scheme="http://blog.spturate.top/tags/CDN/"/>
+    <category term="CDN" scheme="http://www.spturate.top/tags/CDN/"/>
     
-    <category term="网页" scheme="http://blog.spturate.top/tags/%E7%BD%91%E9%A1%B5/"/>
+    <category term="网页" scheme="http://www.spturate.top/tags/%E7%BD%91%E9%A1%B5/"/>
     
-    <category term="Cloudflare" scheme="http://blog.spturate.top/tags/Cloudflare/"/>
+    <category term="Cloudflare" scheme="http://www.spturate.top/tags/Cloudflare/"/>
     
   </entry>
   
   <entry>
     <title>HEXO博客使用vercel进行全局加速</title>
-    <link href="http://blog.spturate.top/2021/03/hexo-vercel/"/>
-    <id>http://blog.spturate.top/2021/03/hexo-vercel/</id>
+    <link href="http://www.spturate.top/2021/03/hexo-vercel/"/>
+    <id>http://www.spturate.top/2021/03/hexo-vercel/</id>
     <published>2021-03-20T17:19:00.000Z</published>
     <updated>2021-03-26T15:26:13.098Z</updated>
     
@@ -93,23 +93,23 @@
     
     
     
-    <category term="Hexo" scheme="http://blog.spturate.top/categories/Hexo/"/>
+    <category term="Hexo" scheme="http://www.spturate.top/categories/Hexo/"/>
     
     
-    <category term="Hexo" scheme="http://blog.spturate.top/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://www.spturate.top/tags/Hexo/"/>
     
-    <category term="CDN" scheme="http://blog.spturate.top/tags/CDN/"/>
+    <category term="CDN" scheme="http://www.spturate.top/tags/CDN/"/>
     
-    <category term="网页" scheme="http://blog.spturate.top/tags/%E7%BD%91%E9%A1%B5/"/>
+    <category term="网页" scheme="http://www.spturate.top/tags/%E7%BD%91%E9%A1%B5/"/>
     
-    <category term="vercel" scheme="http://blog.spturate.top/tags/vercel/"/>
+    <category term="vercel" scheme="http://www.spturate.top/tags/vercel/"/>
     
   </entry>
   
   <entry>
     <title>Github+hexo搭建个人博客（可绑定域名）</title>
-    <link href="http://blog.spturate.top/2021/03/04/"/>
-    <id>http://blog.spturate.top/2021/03/04/</id>
+    <link href="http://www.spturate.top/2021/03/04/"/>
+    <id>http://www.spturate.top/2021/03/04/</id>
     <published>2021-03-12T16:01:27.000Z</published>
     <updated>2021-03-13T19:23:38.031Z</updated>
     
@@ -124,17 +124,17 @@
     
     
     
-    <category term="Hexo" scheme="http://blog.spturate.top/categories/Hexo/"/>
+    <category term="Hexo" scheme="http://www.spturate.top/categories/Hexo/"/>
     
     
-    <category term="Hexo" scheme="http://blog.spturate.top/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://www.spturate.top/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>个人学习HTML标记语言笔记①，常用标记</title>
-    <link href="http://blog.spturate.top/2021/03/03/"/>
-    <id>http://blog.spturate.top/2021/03/03/</id>
+    <link href="http://www.spturate.top/2021/03/03/"/>
+    <id>http://www.spturate.top/2021/03/03/</id>
     <published>2021-03-08T07:20:34.000Z</published>
     <updated>2021-03-23T17:31:04.747Z</updated>
     
@@ -150,17 +150,17 @@
     
     
     
-    <category term="前端学习日记" scheme="http://blog.spturate.top/categories/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/"/>
+    <category term="前端学习日记" scheme="http://www.spturate.top/categories/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/"/>
     
     
-    <category term="Hexo" scheme="http://blog.spturate.top/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://www.spturate.top/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>Hexo+Giteee 零成本搭建个人静态博客（Win）</title>
-    <link href="http://blog.spturate.top/2021/03/02/"/>
-    <id>http://blog.spturate.top/2021/03/02/</id>
+    <link href="http://www.spturate.top/2021/03/02/"/>
+    <id>http://www.spturate.top/2021/03/02/</id>
     <published>2021-03-06T17:20:34.000Z</published>
     <updated>2021-03-12T18:16:42.478Z</updated>
     
@@ -175,17 +175,17 @@
     
     
     
-    <category term="Hexo" scheme="http://blog.spturate.top/categories/Hexo/"/>
+    <category term="Hexo" scheme="http://www.spturate.top/categories/Hexo/"/>
     
     
-    <category term="Hexo" scheme="http://blog.spturate.top/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://www.spturate.top/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>GitHub+jsDelivr 搭建免费退出地毯式教程</title>
-    <link href="http://blog.spturate.top/2021/02/01/"/>
-    <id>http://blog.spturate.top/2021/02/01/</id>
+    <link href="http://www.spturate.top/2021/02/01/"/>
+    <id>http://www.spturate.top/2021/02/01/</id>
     <published>2021-02-22T17:41:02.000Z</published>
     <updated>2021-03-23T16:52:25.983Z</updated>
     
@@ -194,17 +194,17 @@
     
     
     
-    <category term="CDN" scheme="http://blog.spturate.top/categories/CDN/"/>
+    <category term="CDN" scheme="http://www.spturate.top/categories/CDN/"/>
     
     
-    <category term="图床" scheme="http://blog.spturate.top/tags/%E5%9B%BE%E5%BA%8A/"/>
+    <category term="图床" scheme="http://www.spturate.top/tags/%E5%9B%BE%E5%BA%8A/"/>
     
   </entry>
   
   <entry>
     <title>我的2020年度总结</title>
-    <link href="http://blog.spturate.top/2021/01/2020over/"/>
-    <id>http://blog.spturate.top/2021/01/2020over/</id>
+    <link href="http://www.spturate.top/2021/01/2020over/"/>
+    <id>http://www.spturate.top/2021/01/2020over/</id>
     <published>2021-01-02T12:06:56.000Z</published>
     <updated>2021-03-20T08:38:51.050Z</updated>
     
@@ -219,12 +219,12 @@
     
     
     
-    <category term="日记" scheme="http://blog.spturate.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="日记" scheme="http://www.spturate.top/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
-    <category term="2020" scheme="http://blog.spturate.top/tags/2020/"/>
+    <category term="2020" scheme="http://www.spturate.top/tags/2020/"/>
     
-    <category term="年度总结" scheme="http://blog.spturate.top/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
+    <category term="年度总结" scheme="http://www.spturate.top/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
