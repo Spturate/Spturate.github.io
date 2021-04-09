@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.spturate.top/2021/04/xue-xi-html/html-2/</loc>
+    
+    <lastmod>2021-04-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.spturate.top/music/index.html</loc>
     
     <lastmod>2021-03-27</lastmod>
@@ -137,7 +144,7 @@
 
   <url>
     <loc>http://blog.spturate.top/</loc>
-    <lastmod>2021-03-27</lastmod>
+    <lastmod>2021-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -145,63 +152,77 @@
   
   <url>
     <loc>http://blog.spturate.top/tags/%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2021-03-27</lastmod>
+    <lastmod>2021-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.spturate.top/tags/Hexo/</loc>
-    <lastmod>2021-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.spturate.top/tags/2020/</loc>
-    <lastmod>2021-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.spturate.top/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2021-03-27</lastmod>
+    <lastmod>2021-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.spturate.top/tags/hexo/</loc>
-    <lastmod>2021-03-27</lastmod>
+    <lastmod>2021-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.spturate.top/tags/CDN/</loc>
-    <lastmod>2021-03-27</lastmod>
+    <lastmod>2021-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.spturate.top/tags/%E7%BD%91%E9%A1%B5/</loc>
-    <lastmod>2021-03-27</lastmod>
+    <lastmod>2021-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.spturate.top/tags/Cloudflare/</loc>
-    <lastmod>2021-03-27</lastmod>
+    <lastmod>2021-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.spturate.top/tags/vercel/</loc>
-    <lastmod>2021-03-27</lastmod>
+    <lastmod>2021-04-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.spturate.top/tags/2020/</loc>
+    <lastmod>2021-04-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.spturate.top/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2021-04-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.spturate.top/tags/HTML/</loc>
+    <lastmod>2021-04-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.spturate.top/tags/%E8%B6%85%E6%96%87%E6%9C%AC%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/</loc>
+    <lastmod>2021-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -210,28 +231,28 @@
   
   <url>
     <loc>http://blog.spturate.top/categories/CDN/</loc>
-    <lastmod>2021-03-27</lastmod>
+    <lastmod>2021-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.spturate.top/categories/Hexo/</loc>
-    <lastmod>2021-03-27</lastmod>
+    <lastmod>2021-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.spturate.top/categories/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2021-03-27</lastmod>
+    <lastmod>2021-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.spturate.top/categories/%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2021-03-27</lastmod>
+    <lastmod>2021-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

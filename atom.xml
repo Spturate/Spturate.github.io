@@ -6,7 +6,7 @@
   <link href="http://blog.spturate.top/atom.xml" rel="self"/>
   
   <link href="http://blog.spturate.top/"/>
-  <updated>2021-03-26T16:37:59.059Z</updated>
+  <updated>2021-04-05T05:25:15.878Z</updated>
   <id>http://blog.spturate.top/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HTML学习日志-二</title>
+    <link href="http://blog.spturate.top/2021/04/xue-xi-html/html-2/"/>
+    <id>http://blog.spturate.top/2021/04/xue-xi-html/html-2/</id>
+    <published>2021-04-03T13:25:15.000Z</published>
+    <updated>2021-04-05T05:25:15.878Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;个人学习HTML超文本标记语言日志-二&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;lt-div-gt-标签&quot;&gt;&lt;a href=&quot;#lt-div-gt-标签&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="HTML" scheme="http://blog.spturate.top/tags/HTML/"/>
+    
+    <category term="超文本标记语言" scheme="http://blog.spturate.top/tags/%E8%B6%85%E6%96%87%E6%9C%AC%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
   
   <entry>
     <title>使用Cloudflare对你的网站进行全局CDN加速</title>
